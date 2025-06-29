@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to Kumar's programming realm 🧘🏻</h2>
+<h2 align="center">Welcome to my programming realm 🧘🏻</h2>
 
 ###
 
