@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gajmerK11/gajmerK11/output/snake.svg" alt="Snake animation" />
+
 
 ###
