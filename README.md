@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gajmerK11&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=gajmerK11&count_private=true&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&locale=en&rank_icon=default&custom_title=GitHub%20Stats&hide_rank=false&cache_seconds=1800&token=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" height="150" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=gajmerK11&count_private=true&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&locale=en&rank_icon=default&custom_title=GitHub%20Stats&hide_rank=false&cache_seconds=1800&token=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" height="150" /> -->
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gajmerK11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
