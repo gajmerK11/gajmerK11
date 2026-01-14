@@ -2,9 +2,7 @@
 <div>  
 <img align="right" height="152" src="https://y.yarn.co/48fe0eb7-6658-4390-86e9-449a38512781_text.gif"  />
 </div>
-<div>
-  
-</div>
+
 
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
