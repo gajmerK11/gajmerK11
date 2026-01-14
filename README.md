@@ -1,6 +1,10 @@
 <h2 align="center">💫Welcome to my programming realm💫</h2>
-
-
+<div>  
+<img align="right" height="152" src="https://y.yarn.co/48fe0eb7-6658-4390-86e9-449a38512781_text.gif"  />
+</div>
+<div>
+  
+</div>
 
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -17,11 +21,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gajmerK11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=gajmerK11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img align="right" height="152" src="https://y.yarn.co/48fe0eb7-6658-4390-86e9-449a38512781_text.gif"  />
+
 
 
 
