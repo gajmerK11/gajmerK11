@@ -18,23 +18,18 @@
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gajmerK11&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gajmerK11&theme=radical)
 
 <br/>
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=gajmerK11&theme=radical&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=gajmerK11&theme=radical&hide_border=false)
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gajmerK11&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gajmerK11&theme=radical)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
 <br clear="both">
 
 
