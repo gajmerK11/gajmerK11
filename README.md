@@ -10,9 +10,7 @@
   </tr>
 </table>
 
-# 💻 Tech Stack:
-## 💻 Tech Stack
-
+# 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
@@ -33,7 +31,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
-## 🌐 Socials:
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-gajmer-04942b2a2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gajmerk9@gmail.com) 
 
 
