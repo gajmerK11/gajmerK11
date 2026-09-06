@@ -16,13 +16,9 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-gajmer-04942b2a2/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gajmerk9@gmail.com) 
 
-# 📊 GitHub Stats
+
 
 # 📊 GitHub Stats
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gajmerK11&theme=radical)
-
-<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=gajmerK11&theme=radical&hide_border=false)
 
